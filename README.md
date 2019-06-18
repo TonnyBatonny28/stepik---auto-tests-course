@@ -1,3 +1,3 @@
 # stepik---auto-tests-course
 Testing course form stepik
-Save and commit my test porjects
+Repository for saving homework and using this work from anywhere
